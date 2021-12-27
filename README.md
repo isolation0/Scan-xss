@@ -7,7 +7,6 @@
 ```console
 # clone the repo
 $ git clone https://github.com/isolation0/Scan-xss.git
-
 # change the working directory to xira
 $ cd xira
 
