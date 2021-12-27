@@ -1,10 +1,10 @@
 """
 Date : 2-2021
 Author: adhrit
-Github: https://www.snapchat.com/add/e6.11
+Github: https://github.com/isolation0
 Description: Xira is a cross-site scripting vulnerablity scanner.
 Code Flow : First Collect all the forms from website then put payloads in input fields and display form and payload.
-Contributor: @shnaider
+Contributor: @ isolation
 
 Build CSRF Token in hidden inputs and Cookie POST Requests. Use pattern hidden inputs, and include type email. Also include textarea, common in Contact Us Forms.
 Implemented Stored XSS functionality.
