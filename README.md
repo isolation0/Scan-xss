@@ -72,13 +72,13 @@ done < $filename
 
 ```console
 
-clone the repo : git clone https://github.com/xadhrit/xss-hacker.git
+clone the repo : git clone https://github.com/isolation0/Scan-xss.git
 
 ```
 ###### Issues:
-Contact me : <a href= "https://twitter.com/xadhrit">Twitter</a>
+Contact me : <a href= "https://twitter.com/iuexb">Twitter</a>
 <br />
-*Open an issue on github.com/xadhrit/xira/issues/*
+*Open an issue on https://github.com/isolation0/*
 
 **LICENSE**
 
