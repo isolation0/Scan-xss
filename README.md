@@ -38,9 +38,7 @@ $ All details with successful payloads.
 $ True
 ```
 
-<p align=center>
-<img src="img/Scan-xss.png"  height="400px" width="650px" alt="Scan-xss" />
-</p>
+
 
 
 ### Payloads Template
