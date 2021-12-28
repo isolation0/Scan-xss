@@ -8,7 +8,7 @@
 # clone the repo
 $ git clone https://github.com/isolation0/Scan-xss.git
 # change the working directory to xira
-$ cd xira
+$ cd Scan-xss
 
 # install the requirements
  
@@ -24,7 +24,7 @@ For windows
 ```console
 FOR LINUX/WINDOWS
 
-$ python3/python xira.py -u <url>
+$ python3/python Scan-xss.py -u <url>
 
 Enter the target's url : https://www.example.com
 ```
@@ -39,7 +39,7 @@ $ True
 ```
 
 <p align=center>
-<img src="img/xira.png"  height="400px" width="650px" alt="xira" />
+<img src="img/Scan-xss.png"  height="400px" width="650px" alt="Scan-xss" />
 </p>
 
 
