@@ -1,5 +1,5 @@
 # isolation
-## XIRA : xss vulnerablity scanner 
+## isolation : xss vulnerablity scanner 
 
 
 ### Installation
